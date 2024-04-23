@@ -1,3 +1,17 @@
+#work note>>>>>>>>>>>>>>>>
+      description :
+      
+      #technology: react js, react router dom, tailwind css and daisyui.
+      #note:
+      i use only nav bar nad side nav and a home page.
+      because company didn't know me details information about development.
+      
+      I do this only 2 hourse. if my simple design will aprove you can call me. I can do better development you can bleive me.
+      
+      please consider about my simple work.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
